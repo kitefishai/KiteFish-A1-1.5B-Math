@@ -1,0 +1,10 @@
+langdetect
+datasets
+tqdm
+beautifulsoup4
+requests
+lxml
+torch
+sentencepiece
+dataset
+tokenizer
