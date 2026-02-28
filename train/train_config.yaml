@@ -1,5 +1,5 @@
 # train_config.yaml
-model_name: "kitefish-a1-1.5B"
+model_name: "Minnow-Math-1.5B"
 output_dir: "./a1-1.5b-checkpoints"
 logging_dir: "./logs"
 

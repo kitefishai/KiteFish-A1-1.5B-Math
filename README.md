@@ -1,4 +1,4 @@
-<h1 align="center">KiteFish-A1-1.5B</h1>
+<h1 align="center">Minnow-Math-1.5B</h1>
 
 <p align="center">
 Scientific & Mathematical Language Model Trained from Raw arXiv LaTeX
@@ -10,10 +10,10 @@ Scientific & Mathematical Language Model Trained from Raw arXiv LaTeX
   <img src="https://img.shields.io/badge/architecture-LLaMA--style-purple" />
 </p>
 
-**KiteFish-A1-1.5B** is a 1.5B parameter decoder-only transformer trained from scratch on raw arXiv LaTeX sources spanning mathematics, computer science, and theoretical physics.
+**Minnow-Math-1.5B** is a 1.5B parameter decoder-only transformer trained from scratch on raw arXiv LaTeX sources spanning mathematics, computer science, and theoretical physics.
 
 Paper (arXiv): https://arxiv.org/pdf/2602.17288  
-Model (HuggingFace): https://huggingface.co/KiteFishAI/KiteFish-A1-1.5B-Math  
+Model (HuggingFace): https://huggingface.co/KiteFishAI/Minnow-Math-1.5B  
 
 <p align="center">
   <a href="https://arxiv.org/abs/2602.17288">
@@ -81,7 +81,7 @@ Key engineering challenges included LaTeX extraction inconsistencies, formula-he
 
 ## Performance Characteristics
 
-KiteFish-A1-1.5B is a base model.
+Minnow-Math-1.5B is a base model.
 
 It demonstrates:
 

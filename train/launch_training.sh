@@ -41,7 +41,7 @@ export NCCL_IB_DISABLE=0
 export NCCL_IB_RETRY_CNT=13
 
 echo "=========================================="
-echo "KiteFish-A1-1.5B Training - No Fused Ops"
+echo "Minnow-Math-1.5B Training - No Fused Ops"
 echo "=========================================="
 echo "Precision: BF16 + TF32"
 echo "DeepSpeed Fused Ops: DISABLED"

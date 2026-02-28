@@ -47,7 +47,7 @@ def main():
 
     if rank == 0:
         print("=" * 60)
-        print("KiteFish-A1-1.5B Training")
+        print("Minnow-Math-1.5B Training")
         print(f"World size: {world_size}")
         print("=" * 60)
 
